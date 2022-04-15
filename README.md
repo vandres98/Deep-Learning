@@ -1,2 +1,3 @@
 # Deep-Learning
-Deep Learning functions and notes
+
+This repository will include various deep learning functions and models for specific tasks.
